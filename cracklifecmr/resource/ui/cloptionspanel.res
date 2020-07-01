@@ -17,7 +17,7 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"settitlebarvisible"		"1"
-		"title"		"半裂命选项"
+		"title"		"Crack-Life 选项"
 	}
 	"frame_topGrip"
 	{
@@ -589,7 +589,7 @@
 		"fieldName"		"LegacySong"
 		"xpos"		"290"
 		"ypos"		"196"
-		"tooltiptext"		"启用原版半裂命中的启动曲。"
+		"tooltiptext"		"启用原版 Crack-Life 中的启动曲。"
 		"wide"		"200"
 		"tall"		"24"
 		"autoResize"		"0"

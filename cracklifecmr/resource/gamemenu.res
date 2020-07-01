@@ -51,7 +51,7 @@
 	}
 	"10"
 	{
-		"label" "半裂命选项"
+		"label" "Crack-Life 选项"
 		"command" "engine ToggleCLOptionsPanel"
 		"InGameOrder" "80"
 	}
