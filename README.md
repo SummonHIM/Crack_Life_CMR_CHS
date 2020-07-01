@@ -4,6 +4,7 @@ Crack-Life: Campaign Mode Remake unofficial chinese support
 半裂命：战役模式重置版非官方汉化
 
 *半裂命包含许多暴力粗口，若感到不适请尽快离开。*
+
 ---
 原作者：Mr Binka
 
