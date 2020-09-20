@@ -9,7 +9,7 @@
 	}
 	"4"
 	{
-		"label" "训练房间"
+		"label" "#GameUI_GameMenu_TrainingRoom"
 		"command" "engine map tr1"
 		"InGameOrder" "40"
 		"notmulti" "1"
@@ -51,7 +51,7 @@
 	}
 	"10"
 	{
-		"label" "Crack-Life 选项"
+		"label" "#GameUI_GameMenu_CrackLifeOptions"
 		"command" "engine ToggleCLOptionsPanel"
 		"InGameOrder" "80"
 	}

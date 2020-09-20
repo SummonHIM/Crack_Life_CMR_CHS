@@ -31,7 +31,7 @@ $fadeout 1.5
 
 INTRO1
 {
-一个由 Mr Binka 制作的模组
+#CRACKLIFECMR_INTRO1
 }
 
 //INTRO CREDITS
@@ -64,27 +64,27 @@ Testing 3
 
 CRED1
 {
-Mr Binka
+#CRACKLIFECMR_CRED1
 }
 
 CRED2
 {
-Siemka321
+#CRACKLIFECMR_CRED2
 }
 
 CRED3
 {
-原作： International Minds
+#CRACKLIFECMR_CRED3
 }
 
 CRED4
 {
-Crowbar Collective
+#CRACKLIFECMR_CRED4
 }
 
 CRED5
 {
-GabeN
+#CRACKLIFECMR_CRED5
 }
 
 
@@ -136,6 +136,11 @@ $holdtime 9
 $fadein 0.01
 $holdtime 3.5
 $position -1 0.58
+
+TRAINING_TITLE
+{
+#CRACKLIFECMR_TRAINING_Title
+}
 
 CHAPTER1_TITLE
 {
@@ -321,199 +326,140 @@ $fadeout 1.5
 $position -1 0.3
 HZBUTTON1
 {
-按下 阴茎 键将你的蛋蛋
-砸到按钮上
+#CRACKLIFECMR_HZBUTTON1
 }
 
 $position -1 0.65
 HZBUTTON2
 {
-按下 阴茎 键将你的蛋蛋砸到按钮上
+#CRACKLIFECMR_HZBUTTON2
 }
 
 HZMOVE
 {
-按 前进 键以前进
-按 后退 键以后退
-按 向左移动 键以向左移动
-按 向右移动 键以向右移动
-打败不可战胜之人
-鞣制不屈不挠之人
-GO GO GALO SENGEN
+#CRACKLIFECMR_HZMOVE
 }
 
 HZJUMP
 {
-当前进之时
-按 跳跃键 在空中放一个响屁
+#CRACKLIFECMR_HZJUMP
 }
 
 HZDUCK
 {
-当前进之时
-按 下蹲 键成为一名侏儒
-同时按住 前进 + 下蹲 键
-以使用侏儒前进模式
+#CRACKLIFECMR_HZDUCK
 }
 
 HZCOMBO
 {
-当前进之时
-先放一个响屁
-再缩小成侏儒
-然后在放一个响屁
+#CRACKLIFECMR_HZCOMBO
 }
 
 HZDUCKJUMP
 {
-当前进之时先放一个响屁
-然后在半空中缩小成侏儒
+#CRACKLIFECMR_HZDUCKJUMP
 }
 
 HZLADDER
 {
-前进可爬上梯子
-后退可爬下梯子
+#CRACKLIFECMR_HZLADDER
 }
 
 HZLJUMP
 {
-当前进之时，
-先变成一名侏儒--
-然后放屁
-你就会将自己大喷射到空中
-并长距离跳跃
+#CRACKLIFECMR_HZLJUMP
 }
 
 $position -1 0.3
 HZLMOD
 {
-确保你已经捡起了长距拉稀模组,
-否则你只是在自欺欺人而已
+#CRACKLIFECMR_HZLMOD
 }
 
 $position -1 0.65
 HZMEDKIT
 {
-急救包可以治疗你
-医疗站可以治疗你
-但科学家可以毙了你
-快速保存
+#CRACKLIFECMR_HZMEDKIT
 }
 
 HZMOMENT
 {
-主开火键 - 射击
-次开火键 - 射击
-就怕你还不知道他。
+#CRACKLIFECMR_HZMOMENT
 }
 
 HZPUSH
 {
-按 前进键 以推动箱子
-长按以持续推动箱子
+#CRACKLIFECMR_HZPUSH
 }
 
 HZPULL
 {
-同时按住 使用 + 后退 键
-以往后拉动箱子
+#CRACKLIFECMR_HZPULL
 }
 
 HZCROWBAR
 {
-选择撬棍
-按 攻击1 键以破坏物体
+#CRACKLIFECMR_HZCROWBAR
 }
  
 HZLITEON
 {
-按下你的 手电筒 键以使用你的手电筒
-按下你的 手电筒 键
-不再使用你的手电筒
-你可能需要手电筒才能在 2SPOOKYS（骷髅） 关卡中生存
+#CRACKLIFECMR_HZLITEON
 }
 
 HZLITEOFF
 {
-再次按下 手电筒 键
-以关闭你的手电筒
+#CRACKLIFECMR_HZLITEOFF
 }
 
 HZWEAPON
 {
-靠进武器可吸进你的体内
-并成为武器
-使用武器来对抗坏人
-你即为武器
+#CRACKLIFECMR_HZWEAPON
 }
 
 HZFIREWEAP
 {
-鼠标1 - 射击
-鼠标2 - 射击
-R - 重装弹药
-就怕你还不知道他。
+#CRACKLIFECMR_HZFIREWEAP
 }
 
 HZARMOR
 {
-按住你的 使用键
-不放直至你的防护衣已充满
-或者充能装置已用尽
+#CRACKLIFECMR_HZARMOR
 }
 
 HZSWIM
 {
-当游泳时，按住你的前进键
-并使用鼠标瞄准
-如果你扣血了就去找新鲜空气
-在空气中等到你的血回满
-再返回水里继续游泳
+#CRACKLIFECMR_HZSWIM
 }
 
 HZDAMAGE
 {
-部分类型的伤害会显示
-在你的抬头显示器上。
-伤害的方向会在
-屏幕中央的红色灯光中指示。
+#CRACKLIFECMR_HZDAMAGE
 }
 
 HZHAZARD
 {
-好鸡巴疼哟！
-穿过过这片辐射区而不是死在这片辐射区
-顺便说一下 - 辐射
+#CRACKLIFECMR_HZHAZARD
 }
 
 HZSCIENTIST
 {
-向科学家求助
-按 使用键 从科学家处获得治疗
+#CRACKLIFECMR_HZSCIENTIST
 }
 
 HZBARNEY
 {
-接近警卫
-按 使用键 寻求他的帮助
-走到门前警卫
-将按下按钮
+#CRACKLIFECMR_HZBARNEY
 }
 
 HZTRAIN
 {
-按下 使用键 进入火车
-按 前进键 以加速
-按 后退键 以减速
-再次按下 使用键 以离开
+#CRACKLIFECMR_HZTRAIN
 }
 
 HZDONE
 {
-恭喜你！
-你已成为一名大臭基佬！
-现在你可以玩战役模式了！
+#CRACKLIFECMR_HZDONE
 }
 
 //CRACK-LIFE GAME TITLES
@@ -535,53 +481,52 @@ $fadeout 1.5
 
 DILDOTAKE
 {
-我找到一根自慰棒形状的钥匙。
+#CRACKLIFECMR_dildofindmessage
 }
 
 REGULARKEY
 {
-我找到了一把十分普通钥匙。
+#CRACKLIFECMR_REGULARKEY
 }
 
 CENT
 {
-已捡起1美分...
+#CRACKLIFECMR_CENT
 }
 
 SPOOKYTNT
 {
-这一定是那位老臭基佬提到过的那个洞了...
+#CRACKLIFECMR_SPOOKYTNT
 }
 
 NOMONEY
 {
-我没有钱，黑鬼。
+#CRACKLIFECMR_NOMONEY
 }
 
 SPOOKYTNT2
 {
-我想我可以安置些TNT来封住它。
-但我该上哪去找！？
+#CRACKLIFECMR_SPOOKYTNT2
 }
 
 BLUEDILDO
 {
-我找到一根巨大蓝色自慰棒形状的钥匙。
+#CRACKLIFECMR_dildo_pickupmessage
 }
 
 DILDOUNLOCK
 {
-我用自慰棒形状的钥匙解锁了这扇门。
+#CRACKLIFECMR_doorunlockedmessage
 }
 
 GABEN1
 {
-这不应该是这样的
+#CRACKLIFECMR_gaben_message1
 }
 
 GABEN2
 {
-好人终将孤独的死去
+#CRACKLIFECMR_gaben_message2
 }
 
 $fadein 0.03
@@ -589,32 +534,27 @@ $holdtime 9
 
 TRIPPERS
 {
-目标：弗里曼
-
-状态：搞砸了
-
-验尸报告：
-好一个傻逼。
+#CRACKLIFECMR_TRIPPERS
 }
 
 LOCKED
 {
-这个门被锁住了。
+#CRACKLIFECMR_doorlockedmessage
 }
 
 SECRETFOUND
 {
-你发现了一个秘密！
+#CRACKLIFECMR_SECRETFOUND
 }
 
 TNT
 {
-已获得 TNT! （去你妈的）
+#CRACKLIFECMR_TNT
 }
 
 DEVICE
 {
-已获得通讯设备
+#CRACKLIFECMR_DEVICE
 }
 
 //END CREDITS
@@ -630,24 +570,17 @@ $holdtime 8
 
 END1
 {
-十分感谢您游玩 Crack-Life: Campaign Mode Remake。
-
-这个模组的存在甚至是一个奇迹...
+#CRACKLIFECMR_END1
 }
 
 END2
 {
-这一切都始于我制作完 Black Mesa 版本的 Crack-Life Remastered 之后
-
-你们要求我制作战役模式...
+#CRACKLIFECMR_END2
 }
 
 END3
 {
-从技术上来讲用 Black Mesa
-来重制战役模式是不可能的
-因为我根本无法添加
-任何新武器和 NPC。
+#CRACKLIFECMR_END3
 }
 
 //END SONG CREDITS
@@ -663,19 +596,15 @@ END3
 
 END4
 {
-所以我不得不在标准 Half-Life 2 中重建 Black Mesa
-以便于制作战役模式...
-
-这主意很疯狂，但他确实能行。
+#CRACKLIFECMR_END4
 }
 
 END5
 {
-但是，这值得吗？
+#CRACKLIFECMR_END5
 }
 
 END6
 {
-好吧，我不知道
-但至少我们已经发布了 Crack-Life...
+#CRACKLIFECMR_END6
 }
