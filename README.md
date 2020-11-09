@@ -14,7 +14,7 @@ Crack-Life: Campaign Mode Remake unofficial chinese support
 
 - 游戏内标题汉化
 
-- 字幕汉化（仅汉化了 Crack-Life 官方提供的字幕。未来可能考虑加入其他字幕）
+- 字幕汉化（全字幕 + 部分语音效果）
 # How to ues?
 1.点击[下载](https://github.com/SummonHIM/Crack_Life_CMR_CHS/archive/master.zip)按钮，下载汉化文件。
 
