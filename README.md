@@ -10,10 +10,10 @@ Crack-Life: Campaign Mode Remake unofficial chinese support
 # Downloads
 - [原生 GitHub 下载](https://github.com/SummonHIM/Crack_Life_CMR_CHS/archive/master.zip)
 - [GHProxy 大陆加速下载](https://ghproxy.com/https://github.com/SummonHIM/Crack_Life_CMR_CHS/archive/master.zip)
-- [下载游戏本体](https://www.moddb.com/mods/crack-life-campaign-mode-remake)
+- [原游戏官网](https://www.moddb.com/mods/crack-life-campaign-mode-remake)
 
 # How to ues?
-1. [打开游戏本体网站](https://www.moddb.com/mods/crack-life-campaign-mode-remake)
+1. [打开游戏本体网站](https://www.moddb.com/mods/crack-life-campaign-mode-remake/downloads)
 2. 选择合适的版本并下载：
    - Sourcemod 版：
       1. 将压缩包内的 `cracklifecmr` 文件夹复制到 `<Steam安装目录>/steamapps/sourcemods` 文件夹内。
