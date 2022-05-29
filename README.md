@@ -15,12 +15,12 @@ Crack-Life: Campaign Mode Remake unofficial chinese support
 # How to ues?
 1. [打开游戏本体网站](https://www.moddb.com/mods/crack-life-campaign-mode-remake)
 2. 选择合适的版本并下载：
-   - Sourcemod 版，
+   - Sourcemod 版：
       1. 将压缩包内的 `cracklifecmr` 文件夹复制到 `<Steam安装目录>/steamapps/sourcemods` 文件夹内。
       2. 重启 Steam，此时 Steam 游戏库内会出现 Crack-Life: Campaign Mode Remake。
       3. 启动游戏，Steam 会提示安装 Source SDK Base 2013 Singleplayer 工具。（若已安装，则不需要启动游戏，直接执行第四步）
       4. 待工具下载完毕，在 Steam 库中右键 Source SDK Base 2013 Singleplayer → 属性 → 测试版，选择 `upcoming`，并待其更新完毕。
-   - Standalone 版
+   - Standalone 版：
       1. 直接解压压缩包内全部内容，并将其放至合适的地方。
       2. XP 系统则需要将[XP 启动器](https://www.moddb.com/mods/crack-life-campaign-mode-remake/downloads/clcmr-winxp-launcher)复制到游戏根目录内。
 3. [下载汉化文件](#downloads)。
