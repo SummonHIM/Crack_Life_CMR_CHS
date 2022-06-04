@@ -22,7 +22,7 @@ Crack-Life: Campaign Mode Remake unofficial chinese support
       4. 待工具下载完毕，在 Steam 库中右键 Source SDK Base 2013 Singleplayer → 属性 → 测试版，选择 `upcoming`，并待其更新完毕。
    - Standalone 版：
       1. 直接解压压缩包内全部内容，并将其放至合适的地方。
-      2. XP 系统则需要将[XP 启动器](https://www.moddb.com/mods/crack-life-campaign-mode-remake/downloads/clcmr-winxp-launcher)复制到游戏根目录内。
+      2. XP 系统则需要将 [XP 启动器](https://www.moddb.com/mods/crack-life-campaign-mode-remake/downloads/clcmr-winxp-launcher)复制到游戏根目录内。
 3. [下载汉化文件](#downloads)。
 4. 将汉化包内 `cracklifecmr` 文件夹全部拷贝进游戏目录里。
 5. 若使用 Standalone 版则需打开并登陆 Steam，确保其语言为中文。
@@ -36,8 +36,9 @@ Crack-Life: Campaign Mode Remake unofficial chinese support
 # Map Changelog
 全部修改过的地图源码均放置在 `cracklifecmr/maps/sources` 文件夹内。
 
-- lvl2: 在通用环境实体 `worldssmallestcup` 旁增加命令实体 `worldssmallestcup_subtitle` 并用逻辑中继实体 `triggercup` 执行 `cc_emit #newsounds/worldssmallestcup.wav` 命令。[（Bug 详情）](https://developer.valvesoftware.com/wiki/Closed_Captions:zh-cn#.E5.9C.A8.E4.BD.A0.E7.9A.84.E5.9C.B0.E5.9B.BE.E9.87.8C.E6.92.AD.E6.94.BE.E5.B8.A6.E6.9C.89.E5.AD.97.E5.B9.95.E7.9A.84.E9.9F.B3.E9.A2.91)
-- lvl7a: 在通用环境实体 `daddyspeak` 旁增加命令实体 `daddyspeak_subtitle` 并用逻辑中继实体 `break_mm` 执行 `cc_emit #newsounds/vendingmachine.wav` 命令。[（Bug 详情）](https://developer.valvesoftware.com/wiki/Closed_Captions:zh-cn#.E5.9C.A8.E4.BD.A0.E7.9A.84.E5.9C.B0.E5.9B.BE.E9.87.8C.E6.92.AD.E6.94.BE.E5.B8.A6.E6.9C.89.E5.AD.97.E5.B9.95.E7.9A.84.E9.9F.B3.E9.A2.91)
+- tr1: 在通用环境实体 `scientist_talk1` 旁增加命令实体 `scientist_talk1_subtitle` 并用单次触发式实体（ID: 1320989）执行 `cc_emit` 命令。[（Bug 详情）](https://developer.valvesoftware.com/wiki/Closed_Captions:zh-cn#.E5.9C.A8.E4.BD.A0.E7.9A.84.E5.9C.B0.E5.9B.BE.E9.87.8C.E6.92.AD.E6.94.BE.E5.B8.A6.E6.9C.89.E5.AD.97.E5.B9.95.E7.9A.84.E9.9F.B3.E9.A2.91)
+- lvl2: 在通用环境实体 `worldssmallestcup` 旁增加命令实体 `worldssmallestcup_subtitle` 并用逻辑中继实体 `triggercup` 执行 `cc_emit` 命令。[（Bug 详情）](https://developer.valvesoftware.com/wiki/Closed_Captions:zh-cn#.E5.9C.A8.E4.BD.A0.E7.9A.84.E5.9C.B0.E5.9B.BE.E9.87.8C.E6.92.AD.E6.94.BE.E5.B8.A6.E6.9C.89.E5.AD.97.E5.B9.95.E7.9A.84.E9.9F.B3.E9.A2.91)
+- lvl7a: 在通用环境实体 `daddyspeak` 旁增加命令实体 `daddyspeak_subtitle` 并用逻辑中继实体 `break_mm` 执行 `cc_emit` 命令。[（Bug 详情）](https://developer.valvesoftware.com/wiki/Closed_Captions:zh-cn#.E5.9C.A8.E4.BD.A0.E7.9A.84.E5.9C.B0.E5.9B.BE.E9.87.8C.E6.92.AD.E6.94.BE.E5.B8.A6.E6.9C.89.E5.AD.97.E5.B9.95.E7.9A.84.E9.9F.B3.E9.A2.91)
 - lvl10: 在逻辑编排场景实体 `comdevice_murica3` 旁增加命令实体 `comdevice_murica_subtitle` 并用 7 种触发式实体与 1 种按钮式实体执行 `cc_emit` 命令。
 - lvl11: 在逻辑编排场景实体 `comdevice_lvl11_2` 旁增加命令实体 `comdevice_lvl11_subtitle` 并用 2 种触发式实体执行 `cc_emit` 命令。
 - lvl21: 在逻辑编排场景实体 `comdevice_3_lvl21` 旁增加命令实体 `cmd_cc_emit` 并用 3 种触发式实体执行 `cc_emit` 命令。
