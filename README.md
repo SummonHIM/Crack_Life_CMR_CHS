@@ -14,7 +14,7 @@ Crack-Life: Campaign Mode Remake unofficial chinese support
 
 # How to ues?
 1. [打开游戏本体网站](https://www.moddb.com/mods/crack-life-campaign-mode-remake/downloads)
-2. 选择合适的版本并下载：
+2. 选择合适的版本并下载（尽量不要两个版本同时安装）：
    - Sourcemod 版：
       1. 将压缩包内的 `cracklifecmr` 文件夹复制到 `<Steam安装目录>/steamapps/sourcemods` 文件夹内。
       2. 重启 Steam，此时 Steam 游戏库内会出现 Crack-Life: Campaign Mode Remake。

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6440"
-	"mapversion" "2824"
+	"mapversion" "2825"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "2824"
+	"mapversion" "2825"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -83502,7 +83502,7 @@ entity
 	{
 		"OnStartTouch" "scientist_talk1,PlaySound,,1,-1"
 		"OnStartTouch" "tr_door3_piperoom,Open,,5,-1"
-		"OnStartTouch" "scientist_talk1_subtitle,Command,cc_emit holo/tr_sci_goodwork.wav,1,-1"
+		"OnStartTouch" "scientist_talk1_subtitle,Command,cc_emit #holo/tr_sci_goodwork.wav,1,-1"
 	}
 	solid
 	{
@@ -106104,8 +106104,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[5234.08 -5437.88 -1848.93]"
-		"look" "[-659.2 -25.3843 -2520.87]"
+		"position" "[5150.89 -5611.67 -1840.68]"
+		"look" "[13141.3 -5188.03 -1168.8]"
 	}
 }
 cordon
